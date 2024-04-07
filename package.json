@@ -4,7 +4,8 @@
   "description": "Powerful CLI tool leverages the Neynar API to dive into the depths of Farcaster",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js",
+    "fetchData": "node src/index.js",
+    "tokenize": "node src/tokenize.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -25,6 +26,7 @@
     "@clack/prompts": "^0.7.0",
     "@neynar/nodejs-sdk": "^1.9.4",
     "dotenv": "^16.4.1",
+    "natural": "^6.12.0",
     "yargs": "^17.7.2"
   }
 }

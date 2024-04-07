@@ -71,10 +71,17 @@ export async function fetchCastsHandler(argv) {
     const uniqueResults = [...new Set(results.map((cast) => JSON.stringify(cast)))].map((jsonStr) => JSON.parse(jsonStr));
     const concatenatedTexts = uniqueResults.map(result => result.text).join(' ');
     
-    const filename = `casts-${argv.channelId}.txt`;
+    // const filename = `casts-${argv.channelId}.txt`;
+
+    // Define the directories and filename
+    const directoryPath = path.join('channels', channelId); // Construct the directory path
+    const outputFilename = path.join(directoryPath, 'rawdata'); // Construct the full file path
+
+    // Ensure the directory exists
+    await fs.mkdir(directoryPath, { recursive: true });
 
     // Write the uniqueResults to a file
-    fs.writeFile(filename, concatenatedTexts, 'utf8', (err) => {
+    fs.writeFile(outputFilename, concatenatedTexts, 'utf8', (err) => {
       if (err) {
         console.error('An error occurred while writing the file:', err);
       } else {
