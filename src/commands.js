@@ -69,11 +69,12 @@ export async function fetchCastsHandler(argv) {
     });
 
     const uniqueResults = [...new Set(results.map((cast) => JSON.stringify(cast)))].map((jsonStr) => JSON.parse(jsonStr));
+    const concatenatedTexts = uniqueResults.map(result => result.text).join(' ');
     
-    const filename = `casts-${argv.channelId}.json`;
+    const filename = `casts-${argv.channelId}.txt`;
 
     // Write the uniqueResults to a file
-    fs.writeFile(filename, JSON.stringify(uniqueResults, null, 2), 'utf8', (err) => {
+    fs.writeFile(filename, concatenatedTexts, 'utf8', (err) => {
       if (err) {
         console.error('An error occurred while writing the file:', err);
       } else {
