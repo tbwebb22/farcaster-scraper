@@ -1,5 +1,6 @@
 import { FeedType, FilterType } from "@neynar/nodejs-sdk";
 import { getClient } from "./client.js";
+import fs from 'fs';
 
 function isCastValid(cast, likeThreshold, recastThreshold, followerCountThreshold) {
   return (
@@ -38,13 +39,11 @@ async function fetchCasts({
 
     queryCount++;
 
-    const memeUrls = casts
+    const filteredCasts = casts
       .filter((cast) => isCastValid(cast, likeThreshold, recastThreshold, followerCountThreshold))
-      .flatMap((cast) => cast.embeds ?? [])
-      .map(({ url }) => url)
-      .filter((url) => url && url.includes(urlDomainFilter));
+      .map(( cast, index, likes ) => ({ index: index, text: cast.text, likes: cast.reactions.likes.length }));
 
-    allResults.push(...memeUrls);
+    allResults.push(...filteredCasts);
     nextCursor = next && next.cursor;
   } while (
     nextCursor &&
@@ -69,8 +68,18 @@ export async function fetchCastsHandler(argv) {
       maxQueries: argv.maxQueries,
     });
 
-    const uniqueResults = [...new Set(results)];
-    uniqueResults.forEach((url) => console.log(url));
+    const uniqueResults = [...new Set(results.map((cast) => JSON.stringify(cast)))].map((jsonStr) => JSON.parse(jsonStr));
+    
+    const filename = `casts-${argv.channelId}.json`;
+
+    // Write the uniqueResults to a file
+    fs.writeFile(filename, JSON.stringify(uniqueResults, null, 2), 'utf8', (err) => {
+      if (err) {
+        console.error('An error occurred while writing the file:', err);
+      } else {
+        console.log(`Casts have been saved to ${filename}`);
+      }
+    });
   } catch (err) {
     console.error(err);
   }
