@@ -1,6 +1,6 @@
 [
   {
-    "token": "bankless",
+    "token": "  /bankless",
     "frequency": 68
   },
   {
@@ -866,5 +866,29 @@
   {
     "token": "frontier",
     "frequency": 2
-  }
+  },
+  {
+    "token": "🔗",
+    "frequency": 5
+  },
+  {
+    "token": "🚀",
+    "frequency": 4
+  },
+  {
+    "token": "🎨",
+    "frequency": 4
+  },
+  {
+    "token": "📺",
+    "frequency": 3
+  },
+  {
+    "token": "🗞",
+    "frequency": 3
+  },
+  {
+    "token": "✨",
+    "frequency": 2
+  },
 ];

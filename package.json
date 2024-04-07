@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node src/index.js",
     "tokenize": "node src/tokenize.js",
+    "tokenizeEmoji": "node src/tokenizeEmoji.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
