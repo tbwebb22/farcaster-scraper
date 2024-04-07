@@ -48,3 +48,15 @@ Thank you for considering contributing to Farcaster Scraper. Your efforts help m
 ---
 
 Happy Scraping! 🎉 Dive into Farcaster content like never before with **Farcaster Scraper**.
+
+## Taylor's notes
+
+To fetch all casts text from bankless channel:
+`
+node src/index.js fetch --channelId="bankless" --likeThreshold=5 --limit=10000
+`
+
+To tokenize the casts text for bankless:
+`
+npm run tokenize bankless
+`

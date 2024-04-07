@@ -1,6 +1,7 @@
 import { FeedType, FilterType } from "@neynar/nodejs-sdk";
 import { getClient } from "./client.js";
-import fs from 'fs';
+import fs from 'fs/promises'; // Correct import for using async/await
+import path from 'path'; // Add this line to import the path module
 
 function isCastValid(cast, likeThreshold, recastThreshold, followerCountThreshold) {
   return (
@@ -21,6 +22,7 @@ async function fetchCasts({
   maxResults,
   maxQueries,
 }) {
+  console.log("fetching");
   const client = getClient(apiKey);
 
   let allResults = [];
@@ -71,13 +73,13 @@ export async function fetchCastsHandler(argv) {
     const uniqueResults = [...new Set(results.map((cast) => JSON.stringify(cast)))].map((jsonStr) => JSON.parse(jsonStr));
     const concatenatedTexts = uniqueResults.map(result => result.text).join(' ');
     
-    // const filename = `casts-${argv.channelId}.txt`;
+    const filename = `casts-${argv.channelId}.txt`;
 
     // Define the directories and filename
-    const directoryPath = path.join('channels', channelId); // Construct the directory path
-    const outputFilename = path.join(directoryPath, 'rawdata'); // Construct the full file path
+    const directoryPath = path.join('channels', argv.channelId); // Construct the directory path
+    const outputFilename = path.join(directoryPath, 'rawData'); // Construct the full file path
 
-    // Ensure the directory exists
+    // // Ensure the directory exists
     await fs.mkdir(directoryPath, { recursive: true });
 
     // Write the uniqueResults to a file

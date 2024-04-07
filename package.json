@@ -4,7 +4,7 @@
   "description": "Powerful CLI tool leverages the Neynar API to dive into the depths of Farcaster",
   "main": "index.js",
   "scripts": {
-    "fetchData": "node src/index.js",
+    "start": "node src/index.js",
     "tokenize": "node src/tokenize.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

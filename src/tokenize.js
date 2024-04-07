@@ -5,7 +5,7 @@ const tokenizer = new natural.WordTokenizer();
 
 async function analyzeText(channelId) {
   // Define the static path for the input text file
-  const inputFilePath = path.join('channels', channelId, 'rawData.txt');
+  const inputFilePath = path.join('channels', channelId, 'rawData');
 
   try {
     const text = await fs.readFile(inputFilePath, 'utf8');
