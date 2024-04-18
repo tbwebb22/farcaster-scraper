@@ -1,0 +1,814 @@
+[
+  {
+    "token": "/ted",
+    "frequency": 71
+  },
+  {
+    "token": "farcaster",
+    "frequency": 38
+  },
+  {
+    "token": "eth",
+    "frequency": 35
+  },
+  {
+    "token": "people",
+    "frequency": 29
+  },
+  {
+    "token": "life",
+    "frequency": 27
+  },
+  {
+    "token": "see",
+    "frequency": 25
+  },
+  {
+    "token": "think",
+    "frequency": 24
+  },
+  {
+    "token": "our",
+    "frequency": 23
+  },
+  {
+    "token": "make",
+    "frequency": 23
+  },
+  {
+    "token": "frames",
+    "frequency": 21
+  },
+  {
+    "token": "club",
+    "frequency": 20
+  },
+  {
+    "token": "approach",
+    "frequency": 18
+  },
+  {
+    "token": "follow",
+    "frequency": 17
+  },
+  {
+    "token": "degen",
+    "frequency": 17
+  },
+  {
+    "token": "love",
+    "frequency": 17
+  },
+  {
+    "token": "know",
+    "frequency": 16
+  },
+  {
+    "token": "warpcast",
+    "frequency": 15
+  },
+  {
+    "token": "good",
+    "frequency": 15
+  },
+  {
+    "token": "social",
+    "frequency": 15
+  },
+  {
+    "token": "someone",
+    "frequency": 14
+  },
+  {
+    "token": "feel",
+    "frequency": 14
+  },
+  {
+    "token": "today",
+    "frequency": 14
+  },
+  {
+    "token": "up",
+    "frequency": 14
+  },
+  {
+    "token": "crypto",
+    "frequency": 14
+  },
+  {
+    "token": "exclusive",
+    "frequency": 14
+  },
+  {
+    "token": "channel",
+    "frequency": 14
+  },
+  {
+    "token": "content",
+    "frequency": 13
+  },
+  {
+    "token": "nfts",
+    "frequency": 13
+  },
+  {
+    "token": "app",
+    "frequency": 12
+  },
+  {
+    "token": "question",
+    "frequency": 12
+  },
+  {
+    "token": "tip",
+    "frequency": 12
+  },
+  {
+    "token": "post",
+    "frequency": 12
+  },
+  {
+    "token": "day",
+    "frequency": 12
+  },
+  {
+    "token": "free",
+    "frequency": 12
+  },
+  {
+    "token": "long",
+    "frequency": 12
+  },
+  {
+    "token": "future",
+    "frequency": 12
+  },
+  {
+    "token": "fc",
+    "frequency": 12
+  },
+  {
+    "token": "am",
+    "frequency": 11
+  },
+  {
+    "token": "go",
+    "frequency": 11
+  },
+  {
+    "token": "always",
+    "frequency": 11
+  },
+  {
+    "token": "community",
+    "frequency": 11
+  },
+  {
+    "token": "right",
+    "frequency": 11
+  },
+  {
+    "token": "years",
+    "frequency": 11
+  },
+  {
+    "token": "week",
+    "frequency": 11
+  },
+  {
+    "token": "year",
+    "frequency": 11
+  },
+  {
+    "token": "work",
+    "frequency": 11
+  },
+  {
+    "token": "us",
+    "frequency": 11
+  },
+  {
+    "token": "xyz",
+    "frequency": 11
+  },
+  {
+    "token": "warps",
+    "frequency": 11
+  },
+  {
+    "token": "men",
+    "frequency": 11
+  },
+  {
+    "token": "thinking",
+    "frequency": 10
+  },
+  {
+    "token": "world",
+    "frequency": 10
+  },
+  {
+    "token": "going",
+    "frequency": 10
+  },
+  {
+    "token": "mint",
+    "frequency": 10
+  },
+  {
+    "token": "culture",
+    "frequency": 10
+  },
+  {
+    "token": "other",
+    "frequency": 10
+  },
+  {
+    "token": "start",
+    "frequency": 10
+  },
+  {
+    "token": "actually",
+    "frequency": 10
+  },
+  {
+    "token": "personal",
+    "frequency": 10
+  },
+  {
+    "token": "build",
+    "frequency": 10
+  },
+  {
+    "token": "parents",
+    "frequency": 10
+  },
+  {
+    "token": "live",
+    "frequency": 10
+  },
+  {
+    "token": "find",
+    "frequency": 9
+  },
+  {
+    "token": "self",
+    "frequency": 9
+  },
+  {
+    "token": "her",
+    "frequency": 9
+  },
+  {
+    "token": "she",
+    "frequency": 9
+  },
+  {
+    "token": "irl",
+    "frequency": 9
+  },
+  {
+    "token": "makes",
+    "frequency": 9
+  },
+  {
+    "token": "yourself",
+    "frequency": 9
+  },
+  {
+    "token": "everyone",
+    "frequency": 9
+  },
+  {
+    "token": "myself",
+    "frequency": 9
+  },
+  {
+    "token": "greg",
+    "frequency": 9
+  },
+  {
+    "token": "video",
+    "frequency": 9
+  },
+  {
+    "token": "own",
+    "frequency": 9
+  },
+  {
+    "token": "reason",
+    "frequency": 9
+  },
+  {
+    "token": "made",
+    "frequency": 9
+  },
+  {
+    "token": "say",
+    "frequency": 9
+  },
+  {
+    "token": "help",
+    "frequency": 9
+  },
+  {
+    "token": "nonlinear",
+    "frequency": 9
+  },
+  {
+    "token": "dinner",
+    "frequency": 9
+  },
+  {
+    "token": "lucky",
+    "frequency": 8
+  },
+  {
+    "token": "win",
+    "frequency": 8
+  },
+  {
+    "token": "great",
+    "frequency": 8
+  },
+  {
+    "token": "look",
+    "frequency": 8
+  },
+  {
+    "token": "next",
+    "frequency": 8
+  },
+  {
+    "token": "won",
+    "frequency": 8
+  },
+  {
+    "token": "him",
+    "frequency": 8
+  },
+  {
+    "token": "felt",
+    "frequency": 8
+  },
+  {
+    "token": "last",
+    "frequency": 8
+  },
+  {
+    "token": "done",
+    "frequency": 8
+  },
+  {
+    "token": "being",
+    "frequency": 8
+  },
+  {
+    "token": "bc",
+    "frequency": 8
+  },
+  {
+    "token": "hypersub",
+    "frequency": 8
+  },
+  {
+    "token": "experiment",
+    "frequency": 8
+  },
+  {
+    "token": "consumer",
+    "frequency": 8
+  },
+  {
+    "token": "thoughts",
+    "frequency": 7
+  },
+  {
+    "token": "working",
+    "frequency": 7
+  },
+  {
+    "token": "based",
+    "frequency": 7
+  },
+  {
+    "token": "experience",
+    "frequency": 7
+  },
+  {
+    "token": "please",
+    "frequency": 7
+  },
+  {
+    "token": "recast",
+    "frequency": 7
+  },
+  {
+    "token": "attention",
+    "frequency": 7
+  },
+  {
+    "token": "value",
+    "frequency": 7
+  },
+  {
+    "token": "building",
+    "frequency": 7
+  },
+  {
+    "token": "channels",
+    "frequency": 7
+  },
+  {
+    "token": "human",
+    "frequency": 7
+  },
+  {
+    "token": "genuine",
+    "frequency": 7
+  },
+  {
+    "token": "believe",
+    "frequency": 7
+  },
+  {
+    "token": "art",
+    "frequency": 7
+  },
+  {
+    "token": "another",
+    "frequency": 7
+  },
+  {
+    "token": "god",
+    "frequency": 7
+  },
+  {
+    "token": "forward",
+    "frequency": 7
+  },
+  {
+    "token": "often",
+    "frequency": 7
+  },
+  {
+    "token": "around",
+    "frequency": 7
+  },
+  {
+    "token": "www",
+    "frequency": 7
+  },
+  {
+    "token": "followers",
+    "frequency": 7
+  },
+  {
+    "token": "cast",
+    "frequency": 7
+  },
+  {
+    "token": "gm",
+    "frequency": 7
+  },
+  {
+    "token": "give",
+    "frequency": 7
+  },
+  {
+    "token": "x",
+    "frequency": 7
+  },
+  {
+    "token": "real",
+    "frequency": 6
+  },
+  {
+    "token": "mine",
+    "frequency": 6
+  },
+  {
+    "token": "important",
+    "frequency": 6
+  },
+  {
+    "token": "person",
+    "frequency": 6
+  },
+  {
+    "token": "favorite",
+    "frequency": 6
+  },
+  {
+    "token": "collection",
+    "frequency": 6
+  },
+  {
+    "token": "drakula",
+    "frequency": 6
+  },
+  {
+    "token": "hot",
+    "frequency": 6
+  },
+  {
+    "token": "never",
+    "frequency": 6
+  },
+  {
+    "token": "game",
+    "frequency": 6
+  },
+  {
+    "token": "bad",
+    "frequency": 6
+  },
+  {
+    "token": "care",
+    "frequency": 6
+  },
+  {
+    "token": "doing",
+    "frequency": 6
+  },
+  {
+    "token": "getting",
+    "frequency": 6
+  },
+  {
+    "token": "experiences",
+    "frequency": 6
+  },
+  {
+    "token": "status",
+    "frequency": 6
+  },
+  {
+    "token": "guys",
+    "frequency": 6
+  },
+  {
+    "token": "level",
+    "frequency": 6
+  },
+  {
+    "token": "group",
+    "frequency": 6
+  },
+  {
+    "token": "hours",
+    "frequency": 6
+  },
+  {
+    "token": "early",
+    "frequency": 6
+  },
+  {
+    "token": "thought",
+    "frequency": 6
+  },
+  {
+    "token": "members",
+    "frequency": 6
+  },
+  {
+    "token": "creator",
+    "frequency": 6
+  },
+  {
+    "token": "internet",
+    "frequency": 6
+  },
+  {
+    "token": "matters",
+    "frequency": 6
+  },
+  {
+    "token": "interesting",
+    "frequency": 5
+  },
+  {
+    "token": "exist",
+    "frequency": 5
+  },
+  {
+    "token": "true",
+    "frequency": 5
+  },
+  {
+    "token": "morning",
+    "frequency": 5
+  },
+  {
+    "token": "send",
+    "frequency": 5
+  },
+  {
+    "token": "try",
+    "frequency": 5
+  },
+  {
+    "token": "feedback",
+    "frequency": 5
+  },
+  {
+    "token": "clubted",
+    "frequency": 5
+  },
+  {
+    "token": "open",
+    "frequency": 5
+  },
+  {
+    "token": "change",
+    "frequency": 5
+  },
+  {
+    "token": "neynar",
+    "frequency": 5
+  },
+  {
+    "token": "feed",
+    "frequency": 5
+  },
+  {
+    "token": "memecoins",
+    "frequency": 5
+  },
+  {
+    "token": "moment",
+    "frequency": 5
+  },
+  {
+    "token": "project",
+    "frequency": 5
+  },
+  {
+    "token": "ps",
+    "frequency": 5
+  },
+  {
+    "token": "friends",
+    "frequency": 5
+  },
+  {
+    "token": "answers",
+    "frequency": 5
+  },
+  {
+    "token": "strong",
+    "frequency": 5
+  },
+  {
+    "token": "potentially",
+    "frequency": 5
+  },
+  {
+    "token": "unique",
+    "frequency": 5
+  },
+  {
+    "token": "across",
+    "frequency": 5
+  },
+  {
+    "token": "worth",
+    "frequency": 5
+  },
+  {
+    "token": "days",
+    "frequency": 5
+  },
+  {
+    "token": "realize",
+    "frequency": 5
+  },
+  {
+    "token": "class",
+    "frequency": 5
+  },
+  {
+    "token": "nft",
+    "frequency": 5
+  },
+  {
+    "token": "friend",
+    "frequency": 5
+  },
+  {
+    "token": "replies",
+    "frequency": 5
+  },
+  {
+    "token": "article",
+    "frequency": 5
+  },
+  {
+    "token": "through",
+    "frequency": 5
+  },
+  {
+    "token": "society",
+    "frequency": 5
+  },
+  {
+    "token": "enough",
+    "frequency": 5
+  },
+  {
+    "token": "audience",
+    "frequency": 5
+  },
+  {
+    "token": "business",
+    "frequency": 5
+  },
+  {
+    "token": "fact",
+    "frequency": 5
+  },
+  {
+    "token": "vs",
+    "frequency": 5
+  },
+  {
+    "token": "dcs",
+    "frequency": 5
+  },
+  {
+    "token": "sign",
+    "frequency": 5
+  },
+  {
+    "token": "relationships",
+    "frequency": 5
+  },
+  {
+    "token": "fun",
+    "frequency": 5
+  },
+  {
+    "token": "ai",
+    "frequency": 5
+  },
+  {
+    "token": "read",
+    "frequency": 5
+  },
+  {
+    "token": "topic",
+    "frequency": 5
+  },
+  {
+    "token": "tech",
+    "frequency": 5
+  },
+  {
+    "token": "month",
+    "frequency": 5
+  },
+  {
+    "token": "empathy",
+    "frequency": 5
+  },
+  {
+    "token": "imo",
+    "frequency": 5
+  },
+  {
+    "token": "connect",
+    "frequency": 5
+  },
+  {
+    "token": "luxury",
+    "frequency": 5
+  },
+  {
+    "token": "media",
+    "frequency": 5
+  },
+  {
+    "token": "walk",
+    "frequency": 5
+  },
+  {
+    "token": "encourage",
+    "frequency": 5
+  },
+  {
+    "token": "zachterrell",
+    "frequency": 5
+  },
+  {
+    "token": "theory",
+    "frequency": 5
+  },
+  {
+    "token": "agree",
+    "frequency": 5
+  },
+  {
+    "token": "users",
+    "frequency": 5
+  }
+]
