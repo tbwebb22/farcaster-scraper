@@ -45,6 +45,8 @@ async function fetchCasts({
       .filter((cast) => isCastValid(cast, likeThreshold, recastThreshold, followerCountThreshold))
       .map(( cast, index, likes ) => ({ index: index, text: cast.text, likes: cast.reactions.likes.length }));
 
+    console.log("cast count: ", filteredCasts.length);
+
     allResults.push(...filteredCasts);
     nextCursor = next && next.cursor;
   } while (
