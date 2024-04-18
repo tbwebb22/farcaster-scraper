@@ -34,7 +34,6 @@ yargs(hideBin(process.argv))
         default: 100,
         describe: "Fetch limit",
         type: "number",
-        coerce: (limit) => Math.min(limit, 100),
       },
       urlDomainFilter: {
         default: "imgur.com",
