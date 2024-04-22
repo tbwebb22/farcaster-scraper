@@ -21,7 +21,7 @@ yargs(hideBin(process.argv))
         type: "number",
       },
       recastThreshold: {
-        default: 15,
+        default: 0,
         describe: "Recast threshold",
         type: "number",
       },

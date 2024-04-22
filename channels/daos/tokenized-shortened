@@ -1,0 +1,830 @@
+[
+  {
+    "token": "/daos",
+    "frequency": 200
+  },
+  {
+    "token": "we",
+    "frequency": 56
+  },
+  {
+    "token": "governance",
+    "frequency": 41
+  },
+  {
+    "token": "like",
+    "frequency": 36
+  },
+  {
+    "token": "about",
+    "frequency": 34
+  },
+  {
+    "token": "how",
+    "frequency": 34
+  },
+  {
+    "token": "onchain",
+    "frequency": 23
+  },
+  {
+    "token": "our",
+    "frequency": 22
+  },
+  {
+    "token": "eth",
+    "frequency": 22
+  },
+  {
+    "token": "all",
+    "frequency": 22
+  },
+  {
+    "token": "farcaster",
+    "frequency": 21
+  },
+  {
+    "token": "people",
+    "frequency": 19
+  },
+  {
+    "token": "great",
+    "frequency": 19
+  },
+  {
+    "token": "xyz",
+    "frequency": 18
+  },
+  {
+    "token": "community",
+    "frequency": 18
+  },
+  {
+    "token": "token",
+    "frequency": 17
+  },
+  {
+    "token": "org",
+    "frequency": 17
+  },
+  {
+    "token": "decentralized",
+    "frequency": 17
+  },
+  {
+    "token": "now",
+    "frequency": 15
+  },
+  {
+    "token": "who",
+    "frequency": 15
+  },
+  {
+    "token": "today",
+    "frequency": 14
+  },
+  {
+    "token": "status",
+    "frequency": 14
+  },
+  {
+    "token": "optimism",
+    "frequency": 14
+  },
+  {
+    "token": "members",
+    "frequency": 14
+  },
+  {
+    "token": "team",
+    "frequency": 13
+  },
+  {
+    "token": "anyone",
+    "frequency": 13
+  },
+  {
+    "token": "time",
+    "frequency": 13
+  },
+  {
+    "token": "read",
+    "frequency": 13
+  },
+  {
+    "token": "voting",
+    "frequency": 13
+  },
+  {
+    "token": "2024",
+    "frequency": 12
+  },
+  {
+    "token": "make",
+    "frequency": 12
+  },
+  {
+    "token": "love",
+    "frequency": 12
+  },
+  {
+    "token": "protocol",
+    "frequency": 12
+  },
+  {
+    "token": "join",
+    "frequency": 12
+  },
+  {
+    "token": "something",
+    "frequency": 12
+  },
+  {
+    "token": "good",
+    "frequency": 12
+  },
+  {
+    "token": "think",
+    "frequency": 12
+  },
+  {
+    "token": "use",
+    "frequency": 12
+  },
+  {
+    "token": "based",
+    "frequency": 12
+  },
+  {
+    "token": "check",
+    "frequency": 11
+  },
+  {
+    "token": "proposals",
+    "frequency": 11
+  },
+  {
+    "token": "app",
+    "frequency": 11
+  },
+  {
+    "token": "first",
+    "frequency": 11
+  },
+  {
+    "token": "event",
+    "frequency": 11
+  },
+  {
+    "token": "us",
+    "frequency": 11
+  },
+  {
+    "token": "know",
+    "frequency": 11
+  },
+  {
+    "token": "channel",
+    "frequency": 11
+  },
+  {
+    "token": "building",
+    "frequency": 10
+  },
+  {
+    "token": "up",
+    "frequency": 10
+  },
+  {
+    "token": "web3",
+    "frequency": 10
+  },
+  {
+    "token": "post",
+    "frequency": 10
+  },
+  {
+    "token": "making",
+    "frequency": 10
+  },
+  {
+    "token": "twitter",
+    "frequency": 10
+  },
+  {
+    "token": "starting",
+    "frequency": 10
+  },
+  {
+    "token": "look",
+    "frequency": 10
+  },
+  {
+    "token": "take",
+    "frequency": 10
+  },
+  {
+    "token": "privacy",
+    "frequency": 10
+  },
+  {
+    "token": "proposal",
+    "frequency": 9
+  },
+  {
+    "token": "feel",
+    "frequency": 9
+  },
+  {
+    "token": "part",
+    "frequency": 9
+  },
+  {
+    "token": "using",
+    "frequency": 9
+  },
+  {
+    "token": "help",
+    "frequency": 9
+  },
+  {
+    "token": "other",
+    "frequency": 9
+  },
+  {
+    "token": "last",
+    "frequency": 9
+  },
+  {
+    "token": "best",
+    "frequency": 9
+  },
+  {
+    "token": "organizations",
+    "frequency": 9
+  },
+  {
+    "token": "frames",
+    "frequency": 9
+  },
+  {
+    "token": "trying",
+    "frequency": 9
+  },
+  {
+    "token": "orgs",
+    "frequency": 9
+  },
+  {
+    "token": "tokyo",
+    "frequency": 8
+  },
+  {
+    "token": "discord",
+    "frequency": 8
+  },
+  {
+    "token": "power",
+    "frequency": 8
+  },
+  {
+    "token": "roles",
+    "frequency": 8
+  },
+  {
+    "token": "interesting",
+    "frequency": 8
+  },
+  {
+    "token": "watch",
+    "frequency": 8
+  },
+  {
+    "token": "aragon",
+    "frequency": 8
+  },
+  {
+    "token": "doing",
+    "frequency": 8
+  },
+  {
+    "token": "hatsprotocol",
+    "frequency": 8
+  },
+  {
+    "token": "looking",
+    "frequency": 8
+  },
+  {
+    "token": "x",
+    "frequency": 8
+  },
+  {
+    "token": "nouns",
+    "frequency": 8
+  },
+  {
+    "token": "fc",
+    "frequency": 8
+  },
+  {
+    "token": "share",
+    "frequency": 8
+  },
+  {
+    "token": "channels",
+    "frequency": 8
+  },
+  {
+    "token": "fractal",
+    "frequency": 8
+  },
+  {
+    "token": "member",
+    "frequency": 8
+  },
+  {
+    "token": "everyone",
+    "frequency": 7
+  },
+  {
+    "token": "future",
+    "frequency": 7
+  },
+  {
+    "token": "work",
+    "frequency": 7
+  },
+  {
+    "token": "learn",
+    "frequency": 7
+  },
+  {
+    "token": "create",
+    "frequency": 7
+  },
+  {
+    "token": "over",
+    "frequency": 7
+  },
+  {
+    "token": "mirror",
+    "frequency": 7
+  },
+  {
+    "token": "io",
+    "frequency": 7
+  },
+  {
+    "token": "degen",
+    "frequency": 7
+  },
+  {
+    "token": "communities",
+    "frequency": 7
+  },
+  {
+    "token": "account",
+    "frequency": 7
+  },
+  {
+    "token": "safe",
+    "frequency": 7
+  },
+  {
+    "token": "build",
+    "frequency": 7
+  },
+  {
+    "token": "tools",
+    "frequency": 7
+  },
+  {
+    "token": "full",
+    "frequency": 7
+  },
+  {
+    "token": "organization",
+    "frequency": 7
+  },
+  {
+    "token": "ethdenver",
+    "frequency": 7
+  },
+  {
+    "token": "project",
+    "frequency": 7
+  },
+  {
+    "token": "off",
+    "frequency": 7
+  },
+  {
+    "token": "base",
+    "frequency": 7
+  },
+  {
+    "token": "thinking",
+    "frequency": 7
+  },
+  {
+    "token": "denver",
+    "frequency": 7
+  },
+  {
+    "token": "thanks",
+    "frequency": 7
+  },
+  {
+    "token": "group",
+    "frequency": 6
+  },
+  {
+    "token": "zodiac",
+    "frequency": 6
+  },
+  {
+    "token": "newsletter",
+    "frequency": 6
+  },
+  {
+    "token": "youtube",
+    "frequency": 6
+  },
+  {
+    "token": "years",
+    "frequency": 6
+  },
+  {
+    "token": "different",
+    "frequency": 6
+  },
+  {
+    "token": "again",
+    "frequency": 6
+  },
+  {
+    "token": "shared",
+    "frequency": 6
+  },
+  {
+    "token": "few",
+    "frequency": 6
+  },
+  {
+    "token": "year",
+    "frequency": 6
+  },
+  {
+    "token": "important",
+    "frequency": 6
+  },
+  {
+    "token": "world",
+    "frequency": 6
+  },
+  {
+    "token": "warpcast",
+    "frequency": 6
+  },
+  {
+    "token": "hard",
+    "frequency": 6
+  },
+  {
+    "token": "week",
+    "frequency": 6
+  },
+  {
+    "token": "self",
+    "frequency": 6
+  },
+  {
+    "token": "ux",
+    "frequency": 6
+  },
+  {
+    "token": "things",
+    "frequency": 6
+  },
+  {
+    "token": "fun",
+    "frequency": 6
+  },
+  {
+    "token": "public",
+    "frequency": 6
+  },
+  {
+    "token": "experiment",
+    "frequency": 6
+  },
+  {
+    "token": "arbitrum",
+    "frequency": 6
+  },
+  {
+    "token": "someone",
+    "frequency": 6
+  },
+  {
+    "token": "thoughts",
+    "frequency": 6
+  },
+  {
+    "token": "lead",
+    "frequency": 6
+  },
+  {
+    "token": "go",
+    "frequency": 5
+  },
+  {
+    "token": "discussion",
+    "frequency": 5
+  },
+  {
+    "token": "tool",
+    "frequency": 5
+  },
+  {
+    "token": "launch",
+    "frequency": 5
+  },
+  {
+    "token": "free",
+    "frequency": 5
+  },
+  {
+    "token": "tickets",
+    "frequency": 5
+  },
+  {
+    "token": "role",
+    "frequency": 5
+  },
+  {
+    "token": "play",
+    "frequency": 5
+  },
+  {
+    "token": "chat",
+    "frequency": 5
+  },
+  {
+    "token": "thethriller",
+    "frequency": 5
+  },
+  {
+    "token": "connect",
+    "frequency": 5
+  },
+  {
+    "token": "treasury",
+    "frequency": 5
+  },
+  {
+    "token": "articles",
+    "frequency": 5
+  },
+  {
+    "token": "day",
+    "frequency": 5
+  },
+  {
+    "token": "collective",
+    "frequency": 5
+  },
+  {
+    "token": "spengrah",
+    "frequency": 5
+  },
+  {
+    "token": "ideas",
+    "frequency": 5
+  },
+  {
+    "token": "tokens",
+    "frequency": 5
+  },
+  {
+    "token": "dead",
+    "frequency": 5
+  },
+  {
+    "token": "idea",
+    "frequency": 5
+  },
+  {
+    "token": "marshall",
+    "frequency": 5
+  },
+  {
+    "token": "islands",
+    "frequency": 5
+  },
+  {
+    "token": "old",
+    "frequency": 5
+  },
+  {
+    "token": "ai",
+    "frequency": 5
+  },
+  {
+    "token": "paragraph",
+    "frequency": 5
+  },
+  {
+    "token": "tooling",
+    "frequency": 5
+  },
+  {
+    "token": "autonomous",
+    "frequency": 5
+  },
+  {
+    "token": "drop",
+    "frequency": 5
+  },
+  {
+    "token": "cast",
+    "frequency": 5
+  },
+  {
+    "token": "vote",
+    "frequency": 5
+  },
+  {
+    "token": "groups",
+    "frequency": 5
+  },
+  {
+    "token": "latest",
+    "frequency": 5
+  },
+  {
+    "token": "chain",
+    "frequency": 5
+  },
+  {
+    "token": "govern",
+    "frequency": 5
+  },
+  {
+    "token": "legal",
+    "frequency": 5
+  },
+  {
+    "token": "process",
+    "frequency": 5
+  },
+  {
+    "token": "finally",
+    "frequency": 5
+  },
+  {
+    "token": "start",
+    "frequency": 5
+  },
+  {
+    "token": "article",
+    "frequency": 5
+  },
+  {
+    "token": "network",
+    "frequency": 5
+  },
+  {
+    "token": "events",
+    "frequency": 5
+  },
+  {
+    "token": "little",
+    "frequency": 5
+  },
+  {
+    "token": "favorite",
+    "frequency": 5
+  },
+  {
+    "token": "hats",
+    "frequency": 5
+  },
+  {
+    "token": "waitlist",
+    "frequency": 4
+  },
+  {
+    "token": "say",
+    "frequency": 4
+  },
+  {
+    "token": "coordinape",
+    "frequency": 4
+  },
+  {
+    "token": "colinks",
+    "frequency": 4
+  },
+  {
+    "token": "permissions",
+    "frequency": 4
+  },
+  {
+    "token": "projects",
+    "frequency": 4
+  },
+  {
+    "token": "social",
+    "frequency": 4
+  },
+  {
+    "token": "assets",
+    "frequency": 4
+  },
+  {
+    "token": "past",
+    "frequency": 4
+  },
+  {
+    "token": "vs",
+    "frequency": 4
+  },
+  {
+    "token": "light",
+    "frequency": 4
+  },
+  {
+    "token": "through",
+    "frequency": 4
+  },
+  {
+    "token": "capital",
+    "frequency": 4
+  },
+  {
+    "token": "long",
+    "frequency": 4
+  },
+  {
+    "token": "purple",
+    "frequency": 4
+  },
+  {
+    "token": "protodao",
+    "frequency": 4
+  },
+  {
+    "token": "currently",
+    "frequency": 4
+  },
+  {
+    "token": "research",
+    "frequency": 4
+  },
+  {
+    "token": "topic",
+    "frequency": 4
+  },
+  {
+    "token": "write",
+    "frequency": 4
+  },
+  {
+    "token": "small",
+    "frequency": 4
+  },
+  {
+    "token": "business",
+    "frequency": 4
+  },
+  {
+    "token": "native",
+    "frequency": 4
+  },
+  {
+    "token": "active",
+    "frequency": 4
+  },
+  {
+    "token": "gitcoin",
+    "frequency": 4
+  },
+  {
+    "token": "holders",
+    "frequency": 4
+  },
+  {
+    "token": "value",
+    "frequency": 4
+  },
+  {
+    "token": "question",
+    "frequency": 4
+  },
+  {
+    "token": "together",
+    "frequency": 4
+  }
+]

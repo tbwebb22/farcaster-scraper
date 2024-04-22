@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
+    "normalize": "node src/normalize.js",
     "tokenize": "node src/tokenize.js",
     "tokenizeEmoji": "node src/tokenizeEmoji.js",
     "test": "echo \"Error: no test specified\" && exit 1"

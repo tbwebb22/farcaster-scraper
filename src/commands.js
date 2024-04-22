@@ -45,10 +45,11 @@ async function fetchCasts({
       .filter((cast) => isCastValid(cast, likeThreshold, recastThreshold, followerCountThreshold))
       .map(( cast, index, likes ) => ({ index: index, text: cast.text, likes: cast.reactions.likes.length }));
 
-    console.log("cast count: ", filteredCasts.length);
-
     allResults.push(...filteredCasts);
     nextCursor = next && next.cursor;
+    console.log("nextCursor: ", nextCursor);
+    console.log("maxResults: ", allResults.length, " ", maxResults);
+    console.log("maxQueries: ", queryCount, " ", maxQueries);
   } while (
     nextCursor &&
     (!maxResults || allResults.length < maxResults) &&
@@ -71,6 +72,8 @@ export async function fetchCastsHandler(argv) {
       maxResults: argv.maxResults,
       maxQueries: argv.maxQueries,
     });
+
+    // console.log("results: ", results);
 
     const uniqueResults = [...new Set(results.map((cast) => JSON.stringify(cast)))].map((jsonStr) => JSON.parse(jsonStr));
     const concatenatedTexts = uniqueResults.map(result => result.text).join(' ');
