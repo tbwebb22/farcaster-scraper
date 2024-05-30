@@ -1,0 +1,830 @@
+[
+  {
+    "token": "/thedailygwei",
+    "frequency": 70
+  },
+  {
+    "token": "eth",
+    "frequency": 52
+  },
+  {
+    "token": "refuel",
+    "frequency": 40
+  },
+  {
+    "token": "latest",
+    "frequency": 38
+  },
+  {
+    "token": "watch",
+    "frequency": 38
+  },
+  {
+    "token": "youtube",
+    "frequency": 38
+  },
+  {
+    "token": "topics",
+    "frequency": 37
+  },
+  {
+    "token": "consumption",
+    "frequency": 37
+  },
+  {
+    "token": "sassal.eth",
+    "frequency": 36
+  },
+  {
+    "token": "daily",
+    "frequency": 32
+  },
+  {
+    "token": "gwei",
+    "frequency": 29
+  },
+  {
+    "token": "ethereum",
+    "frequency": 28
+  },
+  {
+    "token": "episode",
+    "frequency": 27
+  },
+  {
+    "token": "up",
+    "frequency": 26
+  },
+  {
+    "token": "eric",
+    "frequency": 26
+  },
+  {
+    "token": "gm",
+    "frequency": 26
+  },
+  {
+    "token": "drive",
+    "frequency": 26
+  },
+  {
+    "token": "like",
+    "frequency": 25
+  },
+  {
+    "token": "thru",
+    "frequency": 25
+  },
+  {
+    "token": "love",
+    "frequency": 24
+  },
+  {
+    "token": "chat",
+    "frequency": 23
+  },
+  {
+    "token": "frame",
+    "frequency": 23
+  },
+  {
+    "token": "about",
+    "frequency": 22
+  },
+  {
+    "token": "l2",
+    "frequency": 22
+  },
+  {
+    "token": "bullish",
+    "frequency": 22
+  },
+  {
+    "token": "us",
+    "frequency": 21
+  },
+  {
+    "token": "etf",
+    "frequency": 21
+  },
+  {
+    "token": "thanks",
+    "frequency": 20
+  },
+  {
+    "token": "great",
+    "frequency": 20
+  },
+  {
+    "token": "day",
+    "frequency": 20
+  },
+  {
+    "token": "time",
+    "frequency": 20
+  },
+  {
+    "token": "staking",
+    "frequency": 20
+  },
+  {
+    "token": "airdrop",
+    "frequency": 20
+  },
+  {
+    "token": "layer",
+    "frequency": 20
+  },
+  {
+    "token": "channel",
+    "frequency": 20
+  },
+  {
+    "token": "tdg",
+    "frequency": 20
+  },
+  {
+    "token": "show",
+    "frequency": 19
+  },
+  {
+    "token": "discussion",
+    "frequency": 19
+  },
+  {
+    "token": "everyone",
+    "frequency": 19
+  },
+  {
+    "token": "think",
+    "frequency": 19
+  },
+  {
+    "token": "live",
+    "frequency": 19
+  },
+  {
+    "token": "cycle",
+    "frequency": 19
+  },
+  {
+    "token": "dencun",
+    "frequency": 19
+  },
+  {
+    "token": "market",
+    "frequency": 18
+  },
+  {
+    "token": "money",
+    "frequency": 18
+  },
+  {
+    "token": "base",
+    "frequency": 18
+  },
+  {
+    "token": "blobs",
+    "frequency": 18
+  },
+  {
+    "token": "episodes",
+    "frequency": 18
+  },
+  {
+    "token": "4844",
+    "frequency": 17
+  },
+  {
+    "token": "growth",
+    "frequency": 17
+  },
+  {
+    "token": "community",
+    "frequency": 17
+  },
+  {
+    "token": "buy",
+    "frequency": 17
+  },
+  {
+    "token": "crypto",
+    "frequency": 17
+  },
+  {
+    "token": "token",
+    "frequency": 17
+  },
+  {
+    "token": "news",
+    "frequency": 17
+  },
+  {
+    "token": "being",
+    "frequency": 17
+  },
+  {
+    "token": "top",
+    "frequency": 17
+  },
+  {
+    "token": "roadmap",
+    "frequency": 17
+  },
+  {
+    "token": "farcaster",
+    "frequency": 17
+  },
+  {
+    "token": "staker",
+    "frequency": 15
+  },
+  {
+    "token": "arbitrum",
+    "frequency": 15
+  },
+  {
+    "token": "etfs",
+    "frequency": 15
+  },
+  {
+    "token": "million",
+    "frequency": 15
+  },
+  {
+    "token": "last",
+    "frequency": 15
+  },
+  {
+    "token": "cast",
+    "frequency": 15
+  },
+  {
+    "token": "first",
+    "frequency": 15
+  },
+  {
+    "token": "listen",
+    "frequency": 15
+  },
+  {
+    "token": "work",
+    "frequency": 15
+  },
+  {
+    "token": "early",
+    "frequency": 15
+  },
+  {
+    "token": "app",
+    "frequency": 15
+  },
+  {
+    "token": "new",
+    "frequency": 15
+  },
+  {
+    "token": "ai",
+    "frequency": 15
+  },
+  {
+    "token": "warpcast",
+    "frequency": 15
+  },
+  {
+    "token": "home",
+    "frequency": 15
+  },
+  {
+    "token": "airdrops",
+    "frequency": 14
+  },
+  {
+    "token": "update",
+    "frequency": 14
+  },
+  {
+    "token": "gas",
+    "frequency": 14
+  },
+  {
+    "token": "ecosystem",
+    "frequency": 14
+  },
+  {
+    "token": "blackrock",
+    "frequency": 14
+  },
+  {
+    "token": "eip",
+    "frequency": 14
+  },
+  {
+    "token": "sec",
+    "frequency": 14
+  },
+  {
+    "token": "eigenlayer",
+    "frequency": 14
+  },
+  {
+    "token": "mainnet",
+    "frequency": 14
+  },
+  {
+    "token": "degen",
+    "frequency": 14
+  },
+  {
+    "token": "podcast",
+    "frequency": 14
+  },
+  {
+    "token": "youtube",
+    "frequency": 14
+  },
+  {
+    "token": "week",
+    "frequency": 14
+  },
+  {
+    "token": "thank",
+    "frequency": 14
+  },
+  {
+    "token": "rugfuel",
+    "frequency": 14
+  },
+  {
+    "token": "ether",
+    "frequency": 14
+  },
+  {
+    "token": "hello",
+    "frequency": 14
+  },
+  {
+    "token": "mentioned",
+    "frequency": 14
+  },
+  {
+    "token": "vercel",
+    "frequency": 14
+  },
+  {
+    "token": "da",
+    "frequency": 14
+  },
+  {
+    "token": "long",
+    "frequency": 14
+  },
+  {
+    "token": "own",
+    "frequency": 14
+  },
+  {
+    "token": "spot",
+    "frequency": 14
+  },
+  {
+    "token": "talk",
+    "frequency": 14
+  },
+  {
+    "token": "made",
+    "frequency": 14
+  },
+  {
+    "token": "interesting",
+    "frequency": 14
+  },
+  {
+    "token": "how",
+    "frequency": 14
+  },
+  {
+    "token": "listening",
+    "frequency": 14
+  },
+  {
+    "token": "bull",
+    "frequency": 14
+  },
+  {
+    "token": "make",
+    "frequency": 14
+  },
+  {
+    "token": "allocation",
+    "frequency": 14
+  },
+  {
+    "token": "2024",
+    "frequency": 13
+  },
+  {
+    "token": "dg",
+    "frequency": 13
+  },
+  {
+    "token": "op",
+    "frequency": 13
+  },
+  {
+    "token": "wallet",
+    "frequency": 13
+  },
+  {
+    "token": "staked",
+    "frequency": 13
+  },
+  {
+    "token": "feeling",
+    "frequency": 13
+  },
+  {
+    "token": "address",
+    "frequency": 13
+  },
+  {
+    "token": "anyone",
+    "frequency": 13
+  },
+  {
+    "token": "uniswap",
+    "frequency": 13
+  },
+  {
+    "token": "won",
+    "frequency": 13
+  },
+  {
+    "token": "security",
+    "frequency": 13
+  },
+  {
+    "token": "followers",
+    "frequency": 13
+  },
+  {
+    "token": "addresses",
+    "frequency": 13
+  },
+  {
+    "token": "exit",
+    "frequency": 13
+  },
+  {
+    "token": "weekend",
+    "frequency": 13
+  },
+  {
+    "token": "core",
+    "frequency": 13
+  },
+  {
+    "token": "scaling",
+    "frequency": 13
+  },
+  {
+    "token": "funding",
+    "frequency": 13
+  },
+  {
+    "token": "transactions",
+    "frequency": 13
+  },
+  {
+    "token": "announced",
+    "frequency": 13
+  },
+  {
+    "token": "value",
+    "frequency": 13
+  },
+  {
+    "token": "capture",
+    "frequency": 13
+  },
+  {
+    "token": "nft",
+    "frequency": 13
+  },
+  {
+    "token": "thoughts",
+    "frequency": 13
+  },
+  {
+    "token": "believe",
+    "frequency": 13
+  },
+  {
+    "token": "usdc",
+    "frequency": 13
+  },
+  {
+    "token": "years",
+    "frequency": 13
+  },
+  {
+    "token": "thesis",
+    "frequency": 13
+  },
+  {
+    "token": "why",
+    "frequency": 13
+  },
+  {
+    "token": "btc",
+    "frequency": 13
+  },
+  {
+    "token": "profits",
+    "frequency": 13
+  },
+  {
+    "token": "rocket",
+    "frequency": 13
+  },
+  {
+    "token": "supply",
+    "frequency": 13
+  },
+  {
+    "token": "hey",
+    "frequency": 13
+  },
+  {
+    "token": "rant",
+    "frequency": 13
+  },
+  {
+    "token": "gn",
+    "frequency": 13
+  },
+  {
+    "token": "narrative",
+    "frequency": 13
+  },
+  {
+    "token": "tron",
+    "frequency": 13
+  },
+  {
+    "token": "help",
+    "frequency": 13
+  },
+  {
+    "token": "stakers",
+    "frequency": 13
+  },
+  {
+    "token": "fink",
+    "frequency": 13
+  },
+  {
+    "token": "takes",
+    "frequency": 13
+  },
+  {
+    "token": "search",
+    "frequency": 13
+  },
+  {
+    "token": "solo",
+    "frequency": 11
+  },
+  {
+    "token": "discord",
+    "frequency": 11
+  },
+  {
+    "token": "chain",
+    "frequency": 11
+  },
+  {
+    "token": "restaking",
+    "frequency": 11
+  },
+  {
+    "token": "big",
+    "frequency": 11
+  },
+  {
+    "token": "liquidity",
+    "frequency": 11
+  },
+  {
+    "token": "restake",
+    "frequency": 11
+  },
+  {
+    "token": "offers",
+    "frequency": 11
+  },
+  {
+    "token": "nfts",
+    "frequency": 11
+  },
+  {
+    "token": "year",
+    "frequency": 11
+  },
+  {
+    "token": "chance",
+    "frequency": 11
+  },
+  {
+    "token": "3k",
+    "frequency": 11
+  },
+  {
+    "token": "yesterday",
+    "frequency": 11
+  },
+  {
+    "token": "withdrawal",
+    "frequency": 11
+  },
+  {
+    "token": "agree",
+    "frequency": 11
+  },
+  {
+    "token": "choice",
+    "frequency": 11
+  },
+  {
+    "token": "off",
+    "frequency": 11
+  },
+  {
+    "token": "question",
+    "frequency": 11
+  },
+  {
+    "token": "shoutout",
+    "frequency": 11
+  },
+  {
+    "token": "space",
+    "frequency": 11
+  },
+  {
+    "token": "conviction",
+    "frequency": 11
+  },
+  {
+    "token": "circle",
+    "frequency": 11
+  },
+  {
+    "token": "team",
+    "frequency": 11
+  },
+  {
+    "token": "pectra",
+    "frequency": 11
+  },
+  {
+    "token": "know",
+    "frequency": 11
+  },
+  {
+    "token": "able",
+    "frequency": 11
+  },
+  {
+    "token": "hits",
+    "frequency": 11
+  },
+  {
+    "token": "close",
+    "frequency": 11
+  },
+  {
+    "token": "nexus",
+    "frequency": 11
+  },
+  {
+    "token": "detailed",
+    "frequency": 11
+  },
+  {
+    "token": "bitcoin",
+    "frequency": 11
+  },
+  {
+    "token": "wtf",
+    "frequency": 11
+  },
+  {
+    "token": "due",
+    "frequency": 11
+  },
+  {
+    "token": "blocks",
+    "frequency": 11
+  },
+  {
+    "token": "enjoy",
+    "frequency": 11
+  },
+  {
+    "token": "limit",
+    "frequency": 11
+  },
+  {
+    "token": "filled",
+    "frequency": 11
+  },
+  {
+    "token": "planning",
+    "frequency": 11
+  },
+  {
+    "token": "bearish",
+    "frequency": 11
+  },
+  {
+    "token": "lido",
+    "frequency": 11
+  },
+  {
+    "token": "fellow",
+    "frequency": 11
+  },
+  {
+    "token": "weeks",
+    "frequency": 11
+  },
+  {
+    "token": "innovation",
+    "frequency": 11
+  },
+  {
+    "token": "low",
+    "frequency": 11
+  },
+  {
+    "token": "burn",
+    "frequency": 11
+  },
+  {
+    "token": "mind",
+    "frequency": 11
+  },
+  {
+    "token": "doing",
+    "frequency": 11
+  },
+  {
+    "token": "visa",
+    "frequency": 11
+  },
+  {
+    "token": "billion",
+    "frequency": 11
+  },
+  {
+    "token": "fire",
+    "frequency": 11
+  },
+  {
+    "token": "issuance",
+    "frequency": 11
+  },
+  {
+    "token": "volume",
+    "frequency": 11
+  },
+  {
+    "token": "coinbase",
+    "frequency": 11
+  },
+  {
+    "token": "crazy",
+    "frequency": 11
+  },
+  {
+    "token": "anthony",
+    "frequency": 11
+  },
+  {
+    "token": "pleasure",
+    "frequency": 11
+  },
+  {
+    "token": "costs",
+    "frequency": 11
+  },
+  {
+    "token": "internet",
+    "frequency": 11
+  },
+  {
+    "token": "recent",
+    "frequency": 11
+  }
+]

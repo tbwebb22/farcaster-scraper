@@ -53,7 +53,7 @@ Happy Scraping! 🎉 Dive into Farcaster content like never before with **Farcas
 
 To fetch all casts text from bankless channel:
 `
-node src/index.js fetch --channelId="bankless" --likeThreshold=5 --limit=100
+node src/index.js fetch --channelId="bankless" --likeThreshold=3 --limit=100
 `
 
 To tokenize the casts text for bankless:
